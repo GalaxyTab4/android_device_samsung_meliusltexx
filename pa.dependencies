@@ -20,7 +20,7 @@
     "revision":    "aospa"
   },
   {
-    "repository":  "cyanogenmod/android_kernel_samsung_msm8930-common",
+    "repository":  "Andr3Carvalh0/android_kernel_samsung_msm8930-common",
     "target_path": "kernel/samsung/msm8930-common",
     "revision":    "cm-12.1"
   },
