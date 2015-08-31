@@ -5,7 +5,7 @@
     "revision":    "lollipop-mr1"
   },
   {
-    "repository":  "AOSPA-L/android_device_qcom_common",
+    "repository":  "Andr3Carvalh0/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision":    "lollipop-mr1"
   },
