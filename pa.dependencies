@@ -1,11 +1,11 @@
 [
   {
-    "repository":  "AOSPA-L/android_device_samsung_qcom-common",
+    "repository":  "Andr3Carvalh0/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
     "revision":    "lollipop-mr1"
   },
   {
-    "repository":  "Andr3Carvalh0/android_device_qcom_common",
+    "repository":  "AOSPA-L/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision":    "lollipop-mr1"
   },
