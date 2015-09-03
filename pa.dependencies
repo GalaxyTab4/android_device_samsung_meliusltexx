@@ -22,7 +22,7 @@
   {
     "repository":  "Andr3Carvalh0/android_kernel_samsung_msm8930-common",
     "target_path": "kernel/samsung/msm8930-common",
-    "revision":    "aospa"
+    "revision":    "lollipop-mr1"
   },
   {
     "repository":  "sileshn/proprietary_vendor_samsung",
